@@ -1,9 +1,16 @@
 <h1> Hi! My name is Willam.🖐 </h1>
 
 <div>
-  <a href="https://github.com/Aquariis001">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Aquariis001&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aquariis001&layout=compact&langs_count=7&theme=react" />
+  <source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Aquariis001&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Aquariis001&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aquariis001&show_icons=true" />
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aquariis001&layout=compact&langs_count=7&theme=ligth" />
 
   
 </div>
@@ -24,7 +31,7 @@
 </div>
   
    
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Aquariis001&repo=Aquariis001&theme=react)](https://github.com/Aquariis001/Aquariis001)
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Aquariis001&repo=Aquariis001&theme=ligth)](https://github.com/Aquariis001/Aquariis001)
  
 
 
