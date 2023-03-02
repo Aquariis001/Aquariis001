@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/Aquariis001">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Aquariis001&show_icons=true&theme=react&include_all_commits=true&count_public=true"/>
-    
+
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=Aquariis001&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
@@ -13,6 +13,7 @@
 </picture>
     
   <img align="center" width="148" height="180" src="https://tenor.com/view/vingrogu-gif-25564047">
+  
 </div>
  <br>
 <div  align="center"> 
