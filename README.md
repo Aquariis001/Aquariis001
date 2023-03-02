@@ -2,13 +2,9 @@
 
 <div>
   <a href="https://github.com/Aquariis001">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Aquariis001&show_icons=true&theme=react&include_all_commits=true&count_public=true"/>
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Aquariis001&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aquariis001&layout=compact&langs_count=7&theme=react" />
 
-    
-<img src="https://github-readme-stats.vercel.app/api?username=Aquariis001&show_icons=true" />
-</picture>
-    
-  <img align="center" width="148" height="180" src="https://tenor.com/view/vingrogu-gif-25564047">
   
 </div>
  <br>
